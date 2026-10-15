@@ -14,7 +14,7 @@ int main(){
         }
         }
         if (n<=1){
-    cout<<" enter a number greater than 2" <<endl;
+    cout<<" enter a number greater than 2"<<endl;
         }
     return 0;
 }
